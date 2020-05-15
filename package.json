@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "a simple server for single page app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wodeGG123/server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wodeGG123/server/issues"
+  },
+  "homepage": "https://github.com/wodeGG123/server#readme",
+  "dependencies": {
+    "koa-static": "^5.0.0",
+    "koa-views": "^6.2.2",
+    "koa2": "^2.0.0-alpha.7"
+  }
+}
